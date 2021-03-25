@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.855b0da5.chunk.css",
-    "main.js": "/my-app/static/js/main.3c94e06b.chunk.js",
-    "main.js.map": "/my-app/static/js/main.3c94e06b.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.b9a37b55.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.b9a37b55.js.map",
-    "static/js/2.d308a221.chunk.js": "/my-app/static/js/2.d308a221.chunk.js",
-    "static/js/2.d308a221.chunk.js.map": "/my-app/static/js/2.d308a221.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.855b0da5.chunk.css.map": "/my-app/static/css/main.855b0da5.chunk.css.map",
-    "static/js/2.d308a221.chunk.js.LICENSE.txt": "/my-app/static/js/2.d308a221.chunk.js.LICENSE.txt"
+    "main.css": "/heotube/static/css/main.855b0da5.chunk.css",
+    "main.js": "/heotube/static/js/main.3c94e06b.chunk.js",
+    "main.js.map": "/heotube/static/js/main.3c94e06b.chunk.js.map",
+    "runtime-main.js": "/heotube/static/js/runtime-main.dc6d0f50.js",
+    "runtime-main.js.map": "/heotube/static/js/runtime-main.dc6d0f50.js.map",
+    "static/js/2.d308a221.chunk.js": "/heotube/static/js/2.d308a221.chunk.js",
+    "static/js/2.d308a221.chunk.js.map": "/heotube/static/js/2.d308a221.chunk.js.map",
+    "index.html": "/heotube/index.html",
+    "static/css/main.855b0da5.chunk.css.map": "/heotube/static/css/main.855b0da5.chunk.css.map",
+    "static/js/2.d308a221.chunk.js.LICENSE.txt": "/heotube/static/js/2.d308a221.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9a37b55.js",
+    "static/js/runtime-main.dc6d0f50.js",
     "static/js/2.d308a221.chunk.js",
     "static/css/main.855b0da5.chunk.css",
     "static/js/main.3c94e06b.chunk.js"
